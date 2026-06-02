@@ -1,2 +1,3 @@
 # teste
-repositorio teste apenas para aprendizado
+repositorio teste apenas para aprendizado e praticas
+
